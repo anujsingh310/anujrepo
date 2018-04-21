@@ -1,0 +1,27 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+this is also done by real
+# TEAM
+after real kuch to hai 
+
+editing by aytooooooooooooooo
+    <name> -- <role> -- <twitter>
+ysha se change shuru hua
+
+or yaha tak chala
+# THANKS
+this is edit by real branch an
+
+this is adding by feature branch first
+
+this is for second stash
+it is import
+    <name>
+
+# TECHNOLOGY COLOPHON
+this is done by real
+    HTML5, CSS3
+    jQuery, Modernizr
+	
+	
+	this commant is by forrebash branch frist.ANuj
